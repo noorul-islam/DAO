@@ -363,6 +363,7 @@ export default function Home() {
             >
               Create Proposal
             </button>
+		<br /> <br /><br />
             <button
               className={styles.button}
               onClick={() => setSelectedTab("View Proposals")}
