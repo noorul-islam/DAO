@@ -347,8 +347,8 @@ export default function Home() {
 
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Crypto Devs!</h1>
-          <div className={styles.description}>Welcome to the DAO!</div>
+          <h1 className={styles.title}>Noorul Islam DAO!</h1>
+          <div className={styles.description}>Welcome to the Noorul Islam DAO!</div>
           <div className={styles.description}>
             Your CryptoDevs NFT Balance: {nftBalance}
             <br />
@@ -378,7 +378,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by Crypto Devs
+        Made with &#10084; by Noorul Islam DAO
       </footer>
     </div>
   );
