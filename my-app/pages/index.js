@@ -340,7 +340,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>CryptoDevs DAO</title>
+        <title>Noorul Islam DAO</title>
         <meta name="description" content="CryptoDevs DAO" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
